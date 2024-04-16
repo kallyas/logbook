@@ -22,7 +22,7 @@
     "body-parser": "^1.19.2",
     "express": "^4.17.3",
     "jsonwebtoken": "^7.3.0",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.45",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.13",
     "mongoose": "^6.12.0",
