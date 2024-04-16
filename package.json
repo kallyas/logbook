@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/kallyas/logbook#readme",
   "dependencies": {
-    "body-parser": "^1.19.2",
+    "body-parser": "^1.20.2",
     "express": "^4.17.3",
     "jsonwebtoken": "^7.3.0",
     "moment-timezone": "^0.5.33",
